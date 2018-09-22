@@ -6,10 +6,6 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF90sVideo", "WPF90sVideo\WPF90sVideo.csproj", "{D990D2BA-CD22-41D2-96CE-21133FD51D97}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B543EA94-46A7-4290-9553-D710C969B9AE}"
-	ProjectSection(SolutionItems) = preProject
-		90s90s.png = 90s90s.png
-		README.md = README.md
-	EndProjectSection
 EndProject
 Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{5EAD92F3-87C7-41B4-9299-6B0720FCE98B}"
 EndProject
