@@ -40,7 +40,7 @@
     <h3>Download</h3>
         <ul>
             <li>
-             <strong><a href="https://romaxsolutions.net/Download/90s.msi">Download</a></strong> v1.0.0.1 (requires <a href="https://www.microsoft.com/en-gb/download/details.aspx?id=49981" target="_blank">Microsoft .NET Framework 4.6.1</a> and 
+             <strong><a href="https://romaxsolutions.net/Download/90s.msi">Download</a></strong> v1.0.0.2 (requires <a href="https://www.microsoft.com/en-gb/download/details.aspx?id=49981" target="_blank">Microsoft .NET Framework 4.6.1</a> and 
                      <a href="https://www.codecguide.com/download_k-lite_codec_pack_basic.htm" target="_blank">K-Lite Codec</a> to play webm extensions)</li> 
 
 </div>
